@@ -1,0 +1,3 @@
+This file was added in the feature-2 branch
+
+Add another line after 1st commit
