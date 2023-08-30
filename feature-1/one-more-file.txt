@@ -1,0 +1,1 @@
+ไฟล์นี้ถูกสร้างขึ้นที่ feature-1 branch หลังจากที่แก้ไข author เป็น Teera.bps <teerak.bps@gmail.com>
